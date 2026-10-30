@@ -21,7 +21,7 @@ CHRIS STORE merupakan aplikasi katalog produk berbasis mobile yang dikembangkan 
 
 Tonton video demonstrasi aplikasi CHRIS STORE melalui link berikut:
 
-- **YouTube:** [KLIK DI SINI](MASUKKAN_LINK_YOUTUBE_KAMU)
+- **YouTube:** [KLIK DI SINI](https://youtu.be/CBe0k1taEdw)
 
 ---
 
